@@ -19,16 +19,17 @@ Put your Facebook videos and reels on every page of your shop. A small floating 
 - **Privacy mode:** show a cover image with a play button and load nothing from Facebook until the visitor taps it. Without privacy mode the video still loads only when the panel is opened, never on page load.
 - **Cover images** per video, shown in privacy mode and in the admin list.
 - **Phones:** show or hide on mobile, and lift the button above a theme's bottom navigation bar.
-- **Auto-open** once per visitor after a delay you choose.
+- **Auto-open** once per browser session after a delay you choose.
 - **Works with the TikTok Feed and Instagram Feed plugins:** widgets in the same corner stack instead of overlapping.
 - **Any theme:** the widget is added to the theme footer, uses its own small CSS and JS file, and needs no icon font.
 
 ## Screenshots
 
-| Video panel | Settings |
+| Video panel on desktop and phone | Settings |
 | --- | --- |
 | ![Video panel on the storefront](art/screenshot-1.png) | ![Settings](art/screenshot-2.png) |
-| ![Videos in the admin](art/screenshot-3.png) | ![On a phone](art/screenshot-4.png) |
+| **Adding a video** | **Works with the TikTok and Instagram feeds** |
+| ![Adding a video](art/screenshot-3.png) | ![Widgets stacked in one corner](art/screenshot-4.png) |
 
 ## Requirements
 

@@ -1,0 +1,49 @@
+{
+  "out": "/Users/icyx/MainaSuperintelligenceltd/botble-plugins/facebook-feed/art",
+  "raw": "/private/tmp/claude-501/-Users-icyx-MainaSuperintelligenceltd/e2bc15aa-1289-456b-bd26-90e018bea2c7/scratchpad/batch-a/raw-facebook-feed",
+  "name": "Facebook Feed",
+  "tagline": "Shoppable Facebook videos and reels on every page.",
+  "accent": "#1877f2",
+  "pluginScreenshot": true,
+  "bannerImage": "/private/tmp/claude-501/-Users-icyx-MainaSuperintelligenceltd/e2bc15aa-1289-456b-bd26-90e018bea2c7/scratchpad/batch-a/raw-facebook-feed/banner.png",
+  "glyph": "<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'><path d='M7 10v4h3v7h4v-7h3l1 -4h-4v-2a1 1 0 0 1 1 -1h3v-4h-3a5 5 0 0 0 -5 5v2h-3'/></svg>",
+  "screens": [
+    {
+      "file": "screenshot-1",
+      "title": "Shoppable videos on every page",
+      "caption": "A small floating button opens a 9:16 panel. Each video has its own Shop Now link, plus a follow button for your profile.",
+      "images": [
+        "front-open.png",
+        "mobile-open.png"
+      ],
+      "layout": "pair"
+    },
+    {
+      "file": "screenshot-2",
+      "title": "Set it up in one page",
+      "caption": "Position, size, pages, follow and shop buttons, phone options, privacy mode and auto-open.",
+      "images": [
+        "settings.png"
+      ],
+      "layout": "single"
+    },
+    {
+      "file": "screenshot-3",
+      "title": "Add a video in seconds",
+      "caption": "Paste the Facebook link, pick the product it sells and an optional cover image. Links are checked when you save.",
+      "images": [
+        "edit.png"
+      ],
+      "layout": "single"
+    },
+    {
+      "file": "screenshot-4",
+      "title": "Works with the TikTok and Instagram feeds",
+      "caption": "Widgets that share a corner stack neatly. In privacy mode nothing loads from the social network until a shopper taps play.",
+      "images": [
+        "/private/tmp/claude-501/-Users-icyx-MainaSuperintelligenceltd/e2bc15aa-1289-456b-bd26-90e018bea2c7/scratchpad/batch-a/raw-tiktok-feed/front-all.png"
+      ],
+      "layout": "single"
+    }
+  ]
+}
