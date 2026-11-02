@@ -1,11 +1,11 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Http\Controllers\Settings;
+namespace Maina888\FacebookFeed\Http\Controllers\Settings;
 
 use Botble\Setting\Http\Controllers\SettingController;
-use MainaSuperintelligence\FacebookFeed\Forms\Settings\FacebookFeedSettingForm;
-use MainaSuperintelligence\FacebookFeed\Http\Requests\Settings\FacebookFeedSettingRequest;
-use MainaSuperintelligence\FacebookFeed\Support\FacebookFeedHelper;
+use Maina888\FacebookFeed\Forms\Settings\FacebookFeedSettingForm;
+use Maina888\FacebookFeed\Http\Requests\Settings\FacebookFeedSettingRequest;
+use Maina888\FacebookFeed\Support\FacebookFeedHelper;
 use Illuminate\Support\Arr;
 
 class FacebookFeedSettingController extends SettingController

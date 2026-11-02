@@ -1,8 +1,8 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Tests;
+namespace Maina888\FacebookFeed\Tests;
 
-use MainaSuperintelligence\FacebookFeed\Support\FacebookUrl;
+use Maina888\FacebookFeed\Support\FacebookUrl;
 use PHPUnit\Framework\Attributes\DataProvider;
 use PHPUnit\Framework\TestCase;
 

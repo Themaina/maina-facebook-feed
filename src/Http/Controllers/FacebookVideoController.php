@@ -1,14 +1,14 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Http\Controllers;
+namespace Maina888\FacebookFeed\Http\Controllers;
 
 use Botble\Base\Http\Actions\DeleteResourceAction;
 use Botble\Base\Http\Controllers\BaseController;
 use Botble\Base\Supports\Breadcrumb;
-use MainaSuperintelligence\FacebookFeed\Forms\FacebookVideoForm;
-use MainaSuperintelligence\FacebookFeed\Http\Requests\FacebookVideoRequest;
-use MainaSuperintelligence\FacebookFeed\Models\FacebookVideo;
-use MainaSuperintelligence\FacebookFeed\Tables\FacebookVideoTable;
+use Maina888\FacebookFeed\Forms\FacebookVideoForm;
+use Maina888\FacebookFeed\Http\Requests\FacebookVideoRequest;
+use Maina888\FacebookFeed\Models\FacebookVideo;
+use Maina888\FacebookFeed\Tables\FacebookVideoTable;
 
 class FacebookVideoController extends BaseController
 {

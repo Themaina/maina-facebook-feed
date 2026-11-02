@@ -1,12 +1,12 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Http\Requests\Settings;
+namespace Maina888\FacebookFeed\Http\Requests\Settings;
 
 use Botble\Base\Rules\OnOffRule;
 use Botble\Support\Http\Requests\Request;
 use Illuminate\Validation\Validator;
-use MainaSuperintelligence\FacebookFeed\Support\FacebookFeedHelper;
-use MainaSuperintelligence\FacebookFeed\Support\FacebookUrl;
+use Maina888\FacebookFeed\Support\FacebookFeedHelper;
+use Maina888\FacebookFeed\Support\FacebookUrl;
 use Illuminate\Validation\Rule;
 
 class FacebookFeedSettingRequest extends Request

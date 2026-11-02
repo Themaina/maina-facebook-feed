@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Providers;
+namespace Maina888\FacebookFeed\Providers;
 
 use Botble\Base\Facades\DashboardMenu;
 use Botble\Base\Facades\PanelSectionManager;

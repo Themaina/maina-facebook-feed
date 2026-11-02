@@ -1,9 +1,9 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Support;
+namespace Maina888\FacebookFeed\Support;
 
 use Botble\Setting\Facades\Setting;
-use MainaSuperintelligence\FacebookFeed\Models\FacebookVideo;
+use Maina888\FacebookFeed\Models\FacebookVideo;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Support\Facades\Route;
 use Throwable;

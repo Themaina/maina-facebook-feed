@@ -1,12 +1,12 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Http\Requests;
+namespace Maina888\FacebookFeed\Http\Requests;
 
 use Botble\Base\Enums\BaseStatusEnum;
 use Botble\Support\Http\Requests\Request;
 use Illuminate\Validation\Rule;
 use Illuminate\Validation\Validator;
-use MainaSuperintelligence\FacebookFeed\Support\FacebookUrl;
+use Maina888\FacebookFeed\Support\FacebookUrl;
 
 class FacebookVideoRequest extends Request
 {

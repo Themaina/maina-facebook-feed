@@ -1,12 +1,12 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Providers;
+namespace Maina888\FacebookFeed\Providers;
 
 use Botble\Base\Supports\ServiceProvider;
 use Botble\Ecommerce\Models\Product;
 use Botble\Theme\Events\RenderingSingleEvent;
 use Botble\Theme\Facades\Theme;
-use MainaSuperintelligence\FacebookFeed\Support\FacebookFeedHelper;
+use Maina888\FacebookFeed\Support\FacebookFeedHelper;
 use Illuminate\Routing\Events\RouteMatched;
 use Illuminate\Support\Facades\Route;
 

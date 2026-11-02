@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Support;
+namespace Maina888\FacebookFeed\Support;
 
 /**
  * Checks Facebook links without any framework dependency, so it can be unit tested on its own.

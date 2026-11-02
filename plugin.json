@@ -1,11 +1,11 @@
 {
     "id": "maina888/facebook-feed",
     "name": "Facebook Feed",
-    "namespace": "MainaSuperintelligence\\FacebookFeed\\",
-    "provider": "MainaSuperintelligence\\FacebookFeed\\Providers\\FacebookFeedServiceProvider",
-    "author": "Maina 888",
-    "url": "https://github.com/Themaina/maina-facebook-feed",
-    "version": "1.1.0",
+    "namespace": "Maina888\\FacebookFeed\\",
+    "provider": "Maina888\\FacebookFeed\\Providers\\FacebookFeedServiceProvider",
+    "author": "maina888",
+    "url": "https://mainax.vercel.app",
+    "version": "1.1.1",
     "description": "Facebook video and reel feed for your storefront: a swipeable panel with a Shop Now button per video, a follow link, page targeting and a privacy mode that loads nothing from Facebook until tapped.",
     "minimum_core_version": "7.3.0"
 }

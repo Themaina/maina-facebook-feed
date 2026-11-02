@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Forms;
+namespace Maina888\FacebookFeed\Forms;
 
 use Botble\Base\Forms\FieldOptions\MediaImageFieldOption;
 use Botble\Base\Forms\FieldOptions\NumberFieldOption;
@@ -11,8 +11,8 @@ use Botble\Base\Forms\Fields\NumberField;
 use Botble\Base\Forms\Fields\SelectField;
 use Botble\Base\Forms\Fields\TextField;
 use Botble\Base\Forms\FormAbstract;
-use MainaSuperintelligence\FacebookFeed\Http\Requests\FacebookVideoRequest;
-use MainaSuperintelligence\FacebookFeed\Models\FacebookVideo;
+use Maina888\FacebookFeed\Http\Requests\FacebookVideoRequest;
+use Maina888\FacebookFeed\Models\FacebookVideo;
 
 class FacebookVideoForm extends FormAbstract
 {

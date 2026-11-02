@@ -1,4 +1,4 @@
-# Marketplace listing copy (Maina 888)
+# Marketplace listing copy (maina888)
 
 **Name:** Facebook Feed
 **Plugin id:** `maina888/facebook-feed`

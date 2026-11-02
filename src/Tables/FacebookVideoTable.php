@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Tables;
+namespace Maina888\FacebookFeed\Tables;
 
 use Botble\Table\Abstracts\TableAbstract;
 use Botble\Table\Actions\DeleteAction;
@@ -16,7 +16,7 @@ use Botble\Table\Columns\ImageColumn;
 use Botble\Table\Columns\NameColumn;
 use Botble\Table\Columns\StatusColumn;
 use Botble\Table\HeaderActions\CreateHeaderAction;
-use MainaSuperintelligence\FacebookFeed\Models\FacebookVideo;
+use Maina888\FacebookFeed\Models\FacebookVideo;
 use Illuminate\Database\Eloquent\Builder;
 
 class FacebookVideoTable extends TableAbstract

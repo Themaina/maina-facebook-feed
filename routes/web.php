@@ -1,8 +1,8 @@
 <?php
 
 use Botble\Base\Facades\AdminHelper;
-use MainaSuperintelligence\FacebookFeed\Http\Controllers\Settings\FacebookFeedSettingController;
-use MainaSuperintelligence\FacebookFeed\Http\Controllers\FacebookVideoController;
+use Maina888\FacebookFeed\Http\Controllers\Settings\FacebookFeedSettingController;
+use Maina888\FacebookFeed\Http\Controllers\FacebookVideoController;
 use Illuminate\Support\Facades\Route;
 
 AdminHelper::registerRoutes(function (): void {

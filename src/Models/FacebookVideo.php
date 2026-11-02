@@ -1,11 +1,11 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Models;
+namespace Maina888\FacebookFeed\Models;
 
 use Botble\Base\Casts\SafeContent;
 use Botble\Base\Enums\BaseStatusEnum;
 use Botble\Base\Models\BaseModel;
-use MainaSuperintelligence\FacebookFeed\Support\FacebookUrl;
+use Maina888\FacebookFeed\Support\FacebookUrl;
 
 class FacebookVideo extends BaseModel
 {

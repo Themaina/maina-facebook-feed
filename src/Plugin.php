@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed;
+namespace Maina888\FacebookFeed;
 
 use Botble\PluginManagement\Abstracts\PluginOperationAbstract;
 use Botble\Setting\Facades\Setting;

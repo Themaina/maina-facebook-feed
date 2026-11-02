@@ -1,6 +1,6 @@
 <?php
 
-namespace MainaSuperintelligence\FacebookFeed\Forms\Settings;
+namespace Maina888\FacebookFeed\Forms\Settings;
 
 use Botble\Base\Forms\FieldOptions\CheckboxFieldOption;
 use Botble\Base\Forms\FieldOptions\NumberFieldOption;
@@ -13,8 +13,8 @@ use Botble\Base\Forms\Fields\OnOffCheckboxField;
 use Botble\Base\Forms\Fields\SelectField;
 use Botble\Base\Forms\Fields\TextField;
 use Botble\Setting\Forms\SettingForm;
-use MainaSuperintelligence\FacebookFeed\Http\Requests\Settings\FacebookFeedSettingRequest;
-use MainaSuperintelligence\FacebookFeed\Support\FacebookFeedHelper;
+use Maina888\FacebookFeed\Http\Requests\Settings\FacebookFeedSettingRequest;
+use Maina888\FacebookFeed\Support\FacebookFeedHelper;
 
 class FacebookFeedSettingForm extends SettingForm
 {
